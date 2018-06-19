@@ -117,5 +117,3 @@ def create_test_data_pickle(fin):
 	labels = np.array(labels)
 
 create_test_data_pickle('processed-test-set.csv')
-        
-
